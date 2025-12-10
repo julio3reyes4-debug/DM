@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Café La Esquina",
+    "categoria": "Cafetería",
+    "lat": 7.1324,
+    "lng": -73.1234,
+    "descripcion": "Mejor café de Floridablanca",
+    "url": "cafelasquina.com"
+  },
+  {
+    "id": 2,
+    "nombre": "Tienda XYZ",
+    "categoria": "Ropa",
+    "lat": 7.1340,
+    "lng": -73.1210,
+    "descripcion": "Moda moderna y casual",
+    "url": "ropaxyz.com"
+  },
+  {
+    "id": 3,
+    "nombre": "Farmacia 24h",
+    "categoria": "Farmacia",
+    "lat": 7.1300,
+    "lng": -73.1280,
+    "descripcion": "Medicinas y cuidado personal",
+    "url": "farmacentral.com"
+  }
+]
