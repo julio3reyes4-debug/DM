@@ -1,29 +1,47 @@
 [
   {
     "id": 1,
-    "nombre": "Café La Esquina",
-    "categoria": "Cafetería",
-    "lat": 7.1324,
-    "lng": -73.1234,
-    "descripcion": "Mejor café de Floridablanca",
-    "url": "cafelasquina.com"
+    "nombre": "Valentino's Cakes",
+    "categoria": "🎁 Tienda de Regalos",
+    "lat": 7.090564250063728,
+    "lng": -73.09743885591142,
+    "descripcion": "",
+    "url": "https://heyzine.com/flip-book/d165dfd959.html"
   },
   {
     "id": 2,
-    "nombre": "Tienda XYZ",
-    "categoria": "Ropa",
-    "lat": 7.1340,
-    "lng": -73.1210,
+    "nombre": "May hecho con amor",
+    "categoria": "🌸 Floristería",
+    "lat": 7.071082870314703,
+    "lng": -73.16288568896027,
     "descripcion": "Moda moderna y casual",
-    "url": "ropaxyz.com"
+    "url": "https://heyzine.com/flip-book/8a4b513c2f.html"
   },
   {
     "id": 3,
-    "nombre": "Farmacia 24h",
-    "categoria": "Farmacia",
-    "lat": 7.1300,
-    "lng": -73.1280,
-    "descripcion": "Medicinas y cuidado personal",
-    "url": "farmacentral.com"
-  }
+    "nombre": "Innovarte Empaques",
+    "categoria": "🚛 Distribuidor(a)",
+    "lat": 7.121824656980084,
+    "lng": -73.12856230799699,
+    "descripcion": "",
+    "url": "https://heyzine.com/flip-book/f9582ca44a.html"
+     },
+  {
+    "id": 4,
+    "nombre": "Cocobella",
+    "categoria": "🧩 Otras Tiendas",
+    "lat": 7.1798508023821075,
+    "lng": -73.1321656423283,
+    "descripcion": "",
+    "url": "https://heyzine.com/flip-book/170593dff6.html"
+     },
+  {
+    "id": 5,
+    "nombre": "Papelería la Flaka",
+    "categoria": "🛍️ Miscelánea",
+    "lat": 7.13499317453192,
+    "lng": -73.12667407301511,
+    "descripcion": "",
+    "url": "https://heyzine.com/flip-book/e011b98253.html"
 ]
+
